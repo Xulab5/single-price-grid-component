@@ -6,20 +6,11 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
 - [Links](#links)
 - [Built with](#built-with)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
-
-
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size
-
 
 ### Screenshot
 
